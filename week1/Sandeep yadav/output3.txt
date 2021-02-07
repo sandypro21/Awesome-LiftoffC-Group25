@@ -1,0 +1,7 @@
+
+ Please Enter the radius of a circle : 
+ Diameter Of a Circle = 4.70
+
+ Circumference Of a Circle = 14.76
+
+ Area Of a Circle = 17.34
