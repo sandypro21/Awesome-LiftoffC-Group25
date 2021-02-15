@@ -1,0 +1,2 @@
+Enter five subjects marks: Percentage = 76.80
+Grade C
