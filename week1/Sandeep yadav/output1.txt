@@ -1,0 +1,7 @@
+Enter any two numbers::
+
+SUM        7 + 8 = 15
+DIFFERENCE 7 - 8 = -1
+PRODUCT    7 * 8 = 56
+QUOTIENT   7 / 8 = 0.875000
+MODULUS    7 % 8 = 7
